@@ -20,7 +20,7 @@ Just copy and paste header and .cpp file and include it like normal.
 
 After instaling you have to include it.
 
-# include "Astro.h"
+*include "Astro.h"*
 
 ## Complete Function & Macro Reference
 
