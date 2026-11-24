@@ -18,9 +18,7 @@ Just copy and paste header and .cpp file and include it like normal.
 
 ### Executing program
 
-After instaling you have to include it.
-
-*include "Astro.h"*
+The example file is runnable but you have to keep glfw3.dll in the same folder as the exe file.
 
 ## Complete Function & Macro Reference
 
