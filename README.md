@@ -18,6 +18,10 @@ Just copy and paste header and .cpp file and include it like normal.
 
 ### Executing program
 
+After instaling you have to include it.
+
+# include "Astro.h"
+
 ## Complete Function & Macro Reference
 
 ### Window & Engine Functions
